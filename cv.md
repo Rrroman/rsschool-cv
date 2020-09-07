@@ -40,3 +40,7 @@ function even_or_odd(number) {
 
 - FreeCodeCamp
 - Self-education
+
+## English
+
+- Intermediate

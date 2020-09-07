@@ -6,7 +6,7 @@
 
 - Phone: +380666594911
 - E-Mail: romankohutyak@gmail.com
-- LinkedIn: https://www.linkedin.com/in/roman-kohutyak-5a4076186
+- LinkedIn: [My profile](https://www.linkedin.com/in/roman-kohutyak-5a4076186)
 
 ## Summary
 

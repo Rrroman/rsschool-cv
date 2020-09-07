@@ -35,3 +35,8 @@ function even_or_odd(number) {
   }
 }
 ```
+
+## Education
+
+- FreeCodeCamp
+- Self-education

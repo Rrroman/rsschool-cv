@@ -1,0 +1,71 @@
+body,
+div,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 30px;
+
+  background-color: #f5f5f5;
+}
+
+.header__title {
+  text-align: center;
+}
+
+.title {
+  padding: 10px;
+}
+
+.text {
+  padding: 10px 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:visited {
+  color: #000eee;
+}
+
+.code {
+  margin-left: -50px;
+}
+
+.footer__img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 30px;
+}

@@ -1,6 +1,6 @@
 # CV for RSSchool
 
-## Roman Kohutyak
+## **Roman Kohutyak**
 
 ## Contacts
 
@@ -20,8 +20,8 @@
 4. JQuery
 5. Bootstrap
 6. Preprocessors
-   1. Sass
-   2. Less
+   1. _Sass_
+   2. _Less_
 7. GIT
 
 ## Code examples

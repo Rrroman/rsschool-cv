@@ -9,29 +9,34 @@
 </head>
 
 <body>
-  <header>
+  <header class="header">
     <div class="container">
-      <h1 class="header__title title">CV for RSSchool</h1>
-      <h2 class="title"><b>Roman Kohutyak</b></h2>
+      <h1 class="header__title header__title_center title">CV for RSSchool</h1>
+      <h2 class="header__title title"><i>Roman Kohutyak</i></h2>
     </div>
   </header>
 
   <main>
-    <div class="container">
-      <section class="contacts">
-        <h3 class="title">Contacts</h3>
-        <ul>
-          <li>Phone: <a class="link" href="tel:+380666594911">+380666594911</a>
-          </li>
-          <li>E-Mail: <a class="link"
-              href="mailto:romankohutyak@gmail.com">romankohutyak@gmail.com</a>
-          </li>
-          <li>LinkedIn: <a class="link"
-              href="https://www.linkedin.com/in/roman-kohutyak-5a4076186">My
-              profile</a>
-          </li>
-        </ul>
-      </section>
+    <div class="container main__container">
+      <article class="contacts">
+        <div class="contacts__info">
+          <h3 class="title">Contacts</h3>
+          <ul>
+            <li>Phone: <a class="link"
+                href="tel:+380666594911">+380666594911</a>
+            </li>
+            <li>E-Mail: <a class="link"
+                href="mailto:romankohutyak@gmail.com">romankohutyak@gmail.com</a>
+            </li>
+            <li>LinkedIn: <a class="link"
+                href="https://www.linkedin.com/in/roman-kohutyak-5a4076186">My
+                profile</a>
+            </li>
+          </ul>
+        </div>
+        <img class="contacts__img" src="./img/cat.jpg" alt="Relaxing cat"
+          width="300" height="200">
+      </article>
 
       <article>
         <h3 class="title">Summary</h3>
@@ -90,8 +95,15 @@
 
   <footer class="footer">
     <div class="container">
-      <img class="footer__img" src="./img/cat.jpg" alt="Relaxing cat"
-        width="900" height="630">
+      <ul class="footer__links">
+        <li><a class="github sprite"
+            href="https://github.com/rrroman">GitHub</a></li>
+        <li><a class="gmail sprite"
+            href="mailto:romankohutyak@gmail.com">E-Mail</a></li>
+        <li><a class="linkedin sprite"
+            href="https://www.linkedin.com/in/roman-kohutyak-5a4076186">linkedin</a>
+        </li>
+      </ul>
     </div>
   </footer>
 </body>

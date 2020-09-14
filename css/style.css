@@ -140,7 +140,7 @@ body {
   width: 100px;
 }
 
-.sprite {
+.footer__link {
   display: block;
 
   background-repeat: no-repeat;
@@ -149,10 +149,15 @@ body {
   color: #000000;
   text-decoration: none;
   text-shadow: 5px 5px 10px rgb(27, 27, 27);
-  transition: all 0.8s ease 0s;
+
+  transition: text-shadow 0.8s ease 0s;
 }
 
-.sprite:before {
+.footer__link:hover {
+  text-shadow: none;
+}
+
+.footer__link:before {
   content: ' ';
   position: absolute;
   width: 30px;
